@@ -1,1 +1,2 @@
 FongMi-apk/*.apk filter=lfs diff=lfs merge=lfs -text
+OK-apk/*.apk filter=lfs diff=lfs merge=lfs -text
