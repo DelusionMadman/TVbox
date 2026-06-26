@@ -6,7 +6,9 @@
 
 所有资源全部收集于网络及自我整合。
 mobile = 手機版
+
 leanback = 電視版
 
 arm64_v8a = 64 位元
+
 armeabi_v7a = 32 位元
